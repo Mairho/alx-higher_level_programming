@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 This module is composed by a function prints a message
