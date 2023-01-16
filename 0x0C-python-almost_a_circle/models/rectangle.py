@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 class Rectangle: is the base for all other classes in this project
