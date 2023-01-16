@@ -68,4 +68,4 @@ class Base:
         for i, d in enumerate(instances):
             llist.append(cls.create(**instances[i]))
 
-        return llist
+        return list
